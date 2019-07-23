@@ -9,6 +9,7 @@
 - Oversee the delivery of complex design projects, driving collaborative and positive team dynamics.
 - Help frame project requirements, establish priorities, allocate resources, track and report progress and ensure adherence to schedules, scope and budget.
 - Partner with a diverse array of federal programs, project teams, external organizations and customers to forward a culture of collaboration and innovation.
+- Develop and deliver teaching materials/courses on HCD principles and their implementation within federal spaces to students within the Lab's educational offerings
 - Use excellent presentation and communication skills to convey the goals and outcomes of the The Lab at OPM's work.
 
 **Relevant Experience**: Candidates should have a strong combination of the following:
