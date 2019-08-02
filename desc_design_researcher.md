@@ -4,7 +4,8 @@
 - Determine methods to effectively communicate research insights to various stakeholders and design partners
 - Synthesize findings and identify areas of opportunity to make recommendations for action
 - Work with the design team in order to understand project goals and needs in order to develop more targeted research plans
-- Connect with stakeholders and participants/partners to understand -
+- Connect with stakeholders and participants/partners to understand
+
 **Relevant Experience**: Candidates should have a strong combination of the following:
 - Familiarity with a wide range of design research techniques as well as industry best practices
 - Strong writing skills a must
