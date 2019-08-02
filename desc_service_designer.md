@@ -7,6 +7,7 @@
 - Represent the design discipline and its value to non-designers
 - Utilize various design and publishing tools and software to develop dynamic design solutions
 - Lead and conduct design research to frame project opportunities
+
 **Relevant Experience**: Candidates should have a strong combination of the following:
 - Experience designing and/or implementing solutions in the social sector and/or healthcare is a plus
 - Expertise in human-centered design and/or closely related area (Design Thinking, Design Strategies, Service Design, Design-Led Research)
