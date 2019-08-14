@@ -8,21 +8,22 @@ The Lab at OPM helps government organizations transform their programs, processe
 
 We are excited to be hiring for a range of design roles as part of our Human Innovation Fellowship program! Our application period is X - X.
 
-Explore our open positions:
-
-- title and link here
-- title and link here
-- title and link here
-- title and link here
-
-About the Human Innovation Fellowships:
+### About the Human Innovation Fellowships:
 
 The fellowships are temporary, starting at 18 months, with a potential for up to 4 total years. They are based in DC and NYC, possibly San Francisco, and are either GS 13 or 14. (In DC, GS 13 starts at $99,172. GS 14 starts at $117,191. In New York, GS 13 starts at $102,040. GS 14 starts at $120,580. Learn about the [general schedule classifcation and pay](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/).) 
 
 All federal employees must be U.S. Citizens. Current federal employees are not eligible for Lab fellowships. The fellowship requires a minimum of 5 years of relevant professional experience.
 
-How to learn more about the federal hiring process and apply:
+### Explore our open positions:
 
+- title and link here
+- title and link here
+- title and link here
+- title and link here
+
+### How to learn more about the federal hiring process and apply:
+
+- Attend one of our informational webinars on X or X
 - Learn about how to write a [federal resume](https://www.usajobs.gov/Help/faq/application/documents/resume/what-to-include/)
 - Explore the [USAJOBS Help Center(]https://www.usajobs.gov/Help/) for info on many aspects of federal employment, including 
  hiring and working in government
