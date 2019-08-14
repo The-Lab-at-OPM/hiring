@@ -21,7 +21,7 @@ All federal employees must be U.S. Citizens. Current federal employees are not e
 - title and link here
 - title and link here
 
-### How to learn more about the federal hiring process and apply:
+### Learn more and apply:
 
 - Attend one of our informational webinars on X or X
 - Learn about how to write a [federal resume](https://www.usajobs.gov/Help/faq/application/documents/resume/what-to-include/)
