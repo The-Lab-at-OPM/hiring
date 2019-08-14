@@ -2,7 +2,7 @@
 
 
 
-*** We are transforming government through design, and we need you. ***
+*We are transforming government through design, and we need you.*
 
 The Lab at OPM helps government organizations transform their programs, processes, and people through human-centered design. We partner with federal agencies and other organizations to take on complex public sector challenges, and develop and offer design education classes informed by our HCD experience in the federal space. 
 
