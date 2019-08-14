@@ -24,7 +24,7 @@ HIFs are federal employees, and all federal employees must be U.S. citizens. Cur
 ### Learn more and apply:
 
 - Attend one of our informational webinars on X or X
-- Learn about how to write a [federal resume](https://www.usajobs.gov/Help/faq/application/documents/resume/what-to-include/)
 - Explore the [USAJOBS Help Center](https://www.usajobs.gov/Help/) for info on many aspects of federal employment, including 
  hiring and working in government
+- Learn about how to write a [federal resume](https://www.usajobs.gov/Help/faq/application/documents/resume/what-to-include/)
  - Create a [login.gov account](https://secure.login.gov/?request_id=f9c0a100-75eb-4813-b6d4-abaf90dc1aba) and a [usajobs.gov profile](https://www.usajobs.gov)
