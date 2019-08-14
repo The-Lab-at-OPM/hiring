@@ -1,6 +1,6 @@
 ![Image](lab_logo.png)
 
-<p></p>
+
 
 **We are transforming government through design, and we need you.**
 
