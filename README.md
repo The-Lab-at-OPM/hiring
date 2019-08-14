@@ -10,7 +10,7 @@ We are excited to be hiring for a range of design roles as part of our Human Inn
 
 ### About the Human Innovation Fellowships:
 
-The fellowships are temporary, starting at 18 months, with a potential for up to 4 total years. They are based in DC and NYC, possibly San Francisco, and are either GS grade 13 or 14. (In DC, GS 13 starts at $99,172. GS 14 starts at $117,191. In New York, GS 13 starts at $102,040. GS 14 starts at $120,580. Learn about the [general schedule classifcation and pay](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/).) 
+The fellowships are temporary positions, starting at 18-month terms, with potential for up to 4 years total. They are based in DC and NYC, possibly San Francisco, and are either GS grade 13 or 14. (In DC, GS 13 starts at $99,172. GS 14 starts at $117,191. In New York, GS 13 starts at $102,040. GS 14 starts at $120,580. Learn about the [general schedule classifcation and pay](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/).) 
 
 All federal employees must be U.S. citizens. Current federal employees are not eligible for Lab fellowships. The fellowship requires a minimum of 5 years of relevant professional experience.
 
