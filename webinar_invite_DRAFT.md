@@ -10,7 +10,7 @@ Participation in these calls is completely optional. They are simply intended to
 Each session will follow the same format and basic content. The call will begin with a brief overview of the Lab at OPM as a program, information about the Human Innovation Fellowship (HIF) program and positions, and the requirements for the application process. The remainder of the call will be an open Q&A session.
 
 Requirements of Human Innovation Fellowships:
-The fellowships are temporary positions, starting at 18-month terms, with potential for up to 4 years total. They are based in DC and NYC, possibly San Francisco, and are either GS grade 13 or 14. HIFs are federal employees, and all federal employees must be U.S. citizens. Current federal employees are not eligible for Lab fellowships. The fellowships require a minimum of 5 years of relevant professional experience.
+The fellowships are temporary positions, starting at 18-month terms, with potential for up to 4 years total. They are based in DC and NYC, possibly San Francisco, and are either GS grade 13 or 14. HIFs are federal employees, and all federal employees must be U.S. citizens. Current federal employees are not eligible for Lab fellowships. Individuals working for non-federal organizations and assigned to federal clients (such as contractors) are eligible. The fellowships require a minimum of 5 years of relevant professional experience.
 
 Invite language for NY event if we want to integrate more about opps outside the Lab:
 
