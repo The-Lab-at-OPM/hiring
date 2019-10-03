@@ -10,7 +10,7 @@ Each webinar will follow the same basic format. We'll begin with a brief overvie
 Requirements of Human Innovation Fellowships:
 The fellowships are temporary positions, starting at 18-month terms, with potential for up to 4 years total. They are based in DC and NYC, and are either GS grade 13 or 14. HIFs are federal employees, and all federal employees must be U.S. citizens. Current federal employees are not eligible for Lab fellowships. Individuals working for non-federal organizations and assigned to federal clients (such as contractors) are eligible. The fellowships require a minimum of 5 years of relevant professional experience.
 
-Find more info here: https://github.com/labopm/hiring
+Explore our open positions and find more details about the application process: https://github.com/labopm/hiring
 
 Invite language if we want to integrate more about opps outside the Lab:
 
