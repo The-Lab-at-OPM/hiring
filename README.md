@@ -16,10 +16,12 @@ HIFs are federal employees, and all federal employees must be U.S. citizens. Cur
 
 ### Explore our open positions:
 
-- title and link here
-- title and link here
-- title and link here
-- title and link here
+- Communications Designer
+- Design Education Lead
+- Design Project Manager
+- Design Researcher
+- Design Strategist
+- Visual Designer
 
 ### Learn more and apply:
 
