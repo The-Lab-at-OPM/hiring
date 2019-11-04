@@ -10,7 +10,7 @@ The Lab at OPM helps government organizations transform their programs, processe
 
 ### About the Human Innovation Fellowships:
 
-The fellowships are temporary positions, starting at 18-month terms, with potential for up to 4 years total. They are based in Washington DC and New York City, and are either GS grade 13 or 14. (In DC, GS 13 starts at $99,172. GS 14 starts at $117,191. In New York, GS 13 starts at $102,040. GS 14 starts at $120,580. Learn about the [general schedule classifcation and pay](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/).) 
+The fellowships are term positions, starting at 18-month terms, with potential for up to 4 years total. They are based in Washington DC and New York City, and are either GS grade 13 or 14. (In DC, GS 13 starts at $99,172. GS 14 starts at $117,191. In New York, GS 13 starts at $102,040. GS 14 starts at $120,580. Learn about the [general schedule classifcation and pay](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/).) 
 
 HIFs are federal employees, and all federal employees must be U.S. citizens. Current federal employees are not eligible for Lab fellowships. Individuals working for non-federal organizations and assigned to federal clients (such as contractors) are eligible. The fellowships require a minimum of 5 years of relevant professional experience.
 
