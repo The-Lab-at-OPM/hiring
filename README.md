@@ -6,7 +6,7 @@
 
 The Lab at OPM helps government organizations transform their programs, processes, and people through human-centered design. We partner with federal agencies and other organizations to take on complex public sector challenges, and develop and offer design education classes informed by our HCD experience in the federal space. 
 
-We are excited to be hiring for a range of design roles as part of our Human Innovation Fellowship program! Our application period is Tuesday, November 5 - Tuesday, November 19.
+<b>We are excited to be hiring for a range of design roles as part of our Human Innovation Fellowship program! Our application period is Tuesday, November 5 - Tuesday, November 19.</b>
 
 ### About the Human Innovation Fellowships:
 
