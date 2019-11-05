@@ -18,7 +18,7 @@ The HIF Program requires a minimum 5 years of relevant professional experience. 
 - [Design Education Lead](https://www.usajobs.gov/GetJob/ViewDetails/550871200)
 - [Design Project Manager](https://www.usajobs.gov/GetJob/ViewDetails/550873500)
 - [Design Researcher](https://www.usajobs.gov/GetJob/ViewDetails/550870700)
-- Design Strategist
+- [Design Strategist](https://www.usajobs.gov/GetJob/ViewDetails/550870100)
 - [Visual Designer](https://www.usajobs.gov/GetJob/ViewDetails/550872000)
 
 ### Learn more and apply:
