@@ -23,7 +23,7 @@ The HIF Program requires a minimum 5 years of relevant professional experience. 
 
 ### Learn more and apply:
 
-- Attend one of our informational webinars
+- Attend one of our informational webinars (Dates/times TBD)
 - Explore the [USAJOBS Help Center](https://www.usajobs.gov/Help/) for info on many aspects of federal employment, including 
  hiring and working in government
 - Learn about how to write a [federal resume](https://www.usajobs.gov/Help/faq/application/documents/resume/what-to-include/). It is critical to review and follow this guidance. The additional level of detail required for federal resumes is necessary to ensure candidates receive proper review and consideration.
