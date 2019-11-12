@@ -23,8 +23,7 @@ The HIF Program requires a minimum 5 years of relevant professional experience. 
 
 ### Learn more and apply:
 
-- Register for and attend one of our informational webinars:<br>
-[Tuesday, November 12, 4 - 5PM EST](https://www.eventbrite.com/e/the-lab-at-opm-information-session-for-potential-applicants-tickets-80318967193)<br>
+- Register for and attend our informational webinar:<br>
 [Friday, November 15, 2 - 3PM EST](https://www.eventbrite.com/e/the-lab-at-opm-information-session-for-potential-applicants-tickets-80342276913)
 - Explore the [USAJOBS Help Center](https://www.usajobs.gov/Help/) for info on many aspects of federal employment, including 
  hiring and working in government
