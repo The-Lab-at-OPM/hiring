@@ -13,7 +13,7 @@ The HIF Program requires a minimum 5 years of relevant professional experience. 
 <b>The job announcements were open until Tuesday, November 19 and applications are no longer being accepted.</b>
 
 
-### Explore our open positions:
+### Explore the positions:
 
 - [Communications Designer](https://www.usajobs.gov/GetJob/ViewDetails/550873100)
 - [Design Education Lead](https://www.usajobs.gov/GetJob/ViewDetails/550871200)
@@ -22,7 +22,7 @@ The HIF Program requires a minimum 5 years of relevant professional experience. 
 - [Design Strategist](https://www.usajobs.gov/GetJob/ViewDetails/550870100)
 - [Visual Designer](https://www.usajobs.gov/GetJob/ViewDetails/550872000)
 
-### Learn more and apply:
+### Learn more:
 
 - Explore the [USAJOBS Help Center](https://www.usajobs.gov/Help/) for info on many aspects of federal employment, including 
  hiring and working in government
