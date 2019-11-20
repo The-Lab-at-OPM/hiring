@@ -6,7 +6,7 @@
 
 The Lab at OPM helps government organizations transform their programs, processes, and people through human-centered design. We partner with federal agencies and other organizations to take on complex public sector challenges, and we develop and offer design education classes informed by our experience practicing human-centered design in the federal space.
 
-<b>We are excited to be hiring for a range of design roles as part of our Human Innovation Fellowship Program! <br>Applications are being accepted through Tuesday, November 19.</b>
+<b>The job announcements were open until Tuesday, November 19 and applications are no longer being accepted.</b>
 
 ### About the Human Innovation Fellowships:
 
